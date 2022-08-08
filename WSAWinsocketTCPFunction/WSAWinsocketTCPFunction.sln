@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WSAWinsocketTCPFunction", "WSAWinsocketTCPFunction\WSAWinsocketTCPFunction.vcxproj", "{6196E6A3-9551-4785-A65F-93B24E33739E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WSAWinsocketTCPFunctionCliente", "WSAWinsocketTCPFunctionCliente\WSAWinsocketTCPFunctionCliente.vcxproj", "{17150DC8-9DA1-4DC5-87EF-8570BE6D3568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6196E6A3-9551-4785-A65F-93B24E33739E}.Debug|x64.ActiveCfg = Debug|x64
+		{6196E6A3-9551-4785-A65F-93B24E33739E}.Debug|x64.Build.0 = Debug|x64
+		{6196E6A3-9551-4785-A65F-93B24E33739E}.Debug|x86.ActiveCfg = Debug|Win32
+		{6196E6A3-9551-4785-A65F-93B24E33739E}.Debug|x86.Build.0 = Debug|Win32
+		{6196E6A3-9551-4785-A65F-93B24E33739E}.Release|x64.ActiveCfg = Release|x64
+		{6196E6A3-9551-4785-A65F-93B24E33739E}.Release|x64.Build.0 = Release|x64
+		{6196E6A3-9551-4785-A65F-93B24E33739E}.Release|x86.ActiveCfg = Release|Win32
+		{6196E6A3-9551-4785-A65F-93B24E33739E}.Release|x86.Build.0 = Release|Win32
+		{17150DC8-9DA1-4DC5-87EF-8570BE6D3568}.Debug|x64.ActiveCfg = Debug|x64
+		{17150DC8-9DA1-4DC5-87EF-8570BE6D3568}.Debug|x64.Build.0 = Debug|x64
+		{17150DC8-9DA1-4DC5-87EF-8570BE6D3568}.Debug|x86.ActiveCfg = Debug|Win32
+		{17150DC8-9DA1-4DC5-87EF-8570BE6D3568}.Debug|x86.Build.0 = Debug|Win32
+		{17150DC8-9DA1-4DC5-87EF-8570BE6D3568}.Release|x64.ActiveCfg = Release|x64
+		{17150DC8-9DA1-4DC5-87EF-8570BE6D3568}.Release|x64.Build.0 = Release|x64
+		{17150DC8-9DA1-4DC5-87EF-8570BE6D3568}.Release|x86.ActiveCfg = Release|Win32
+		{17150DC8-9DA1-4DC5-87EF-8570BE6D3568}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DEB6C0-307A-4787-BC0B-26C66C695EE7}
+	EndGlobalSection
+EndGlobal
